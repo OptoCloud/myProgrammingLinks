@@ -13,7 +13,7 @@
 * [**GLFW**](https://github.com/glfw/glfw) - Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan
 * [**libopus**](https://opus-codec.org/) - Audio Codec for loading, playing, and streaming audio
 * [**OpenVR SDK**](https://github.com/ValveSoftware/openvr) - API & runtime to interface with VR hardware
-* [**NaCl**](http://nacl.cr.yp.to/index.html) - Networking and Cryptography library
+* [**NaCl**](https://github.com/google/tink) - multi-language, cross-platform, open source cryptographic library
 
 ## Tools
 * [**Markdown editor**](https://stackedit.io)
