@@ -21,6 +21,7 @@
 * [**C++ to Machine Code Compiler**](https://gcc.godbolt.org/)
 
 ## Tips & Tricks
+* [**It Hare**](http://ithare.com/) - Opinions on the aspects of software development, with many based on real-world experience.
 * [**Bit twiddling hacks**](https://graphics.stanford.edu/~seander/bithacks.html)
 
 ## Tutorials
