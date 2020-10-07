@@ -1,4 +1,5 @@
 ## Documentation / Refrences
+* [**Qt**](https://doc.qt.io/)
 * [**C++**](https://en.cppreference.com/w/)
 * [**GLSL**](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.1.20.pdf)
 * [**OpenGL**](http://docs.gl/)
@@ -11,9 +12,10 @@
 ## Libraries
 * [**SDL**](https://www.libsdl.org/index.php) - Low-level audio and video hardware access library
 * [**GLFW**](https://github.com/glfw/glfw) - Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan
+* [**ENet**](https://github.com/zpl-c/enet) - A relatively thin, simple and robust network communication layer on top of UDP.
 * [**libopus**](https://opus-codec.org/) - Audio Codec for loading, playing, and streaming audio
 * [**OpenVR SDK**](https://github.com/ValveSoftware/openvr) - API & runtime to interface with VR hardware
-* [**Google Tink**](https://github.com/google/tink) - multi-language, cross-platform, open source cryptographic library
+* [**OpenSSL**](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured Open Source Toolkit for the Transport Layer Security (TLS) protocol.
 
 ## Tools
 * [**Markdown editor**](https://stackedit.io)
@@ -34,6 +36,7 @@
 * [**Skeletal animation[1]**](https://www.khronos.org/opengl/wiki/Skeletal_Animation)
 * [**Skeletal animation[2]**](http://voxels.blogspot.com/2014/03/skinned-skeletal-animation-tutorial.html)
 * [**Cryptography**](https://pixelprivacy.com/resources/cryptography-guide/)
+* [**Qt Multithreading**](https://www.toptal.com/qt/qt-multithreading-c-plus-plus)
 
 ## Youtube channels
 * [**TheChernoProject**](https://www.youtube.com/user/TheChernoProject) - Software Engineer working on core technology at EA
