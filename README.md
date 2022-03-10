@@ -42,3 +42,6 @@
 * [**TheChernoProject**](https://www.youtube.com/user/TheChernoProject) - Software Engineer working on core technology at EA
 * [**3Blue1Brown**](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Explaining difficult problems simply with animations
 * [**Christopher Okhravi**](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg) - PhD student who makes videos about programming
+
+## Useful API endpoints
+* [**Amazon AWS IP Check**](https://checkip.amazonaws.com/) - Easiest, and cleanest way to get your own IP address
